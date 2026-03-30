@@ -1,2 +1,2 @@
 # Instagram-clone
-Simple Instagram clone 
+Simple Insta clone 
