@@ -1,8 +1,8 @@
 const followBtn =
 document.getElementById("follow-btn");
 followBtn.addEventListener("click", function() {this.classList.toggle("following");
-  if(this.innerText === "Follow"){innerText = "Following";
+  if(this.innerText === "Following"){innerText = "Follow";
   } else {
-    this.innerText = "Follow";
+    this.innerText = "Following";
   }
 });
